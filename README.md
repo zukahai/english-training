@@ -49,6 +49,7 @@
 | celebrity  |/səˈlebrəti/|noun |Người nổi tiếng|  
 | clarity  |/ˈklærəti/|noun |Trong trẻo|    
 | charity  |/ˈtʃærəti/|noun |tổ chức từ thiện|
+|<img width=500/>|<img width=500/>|<img width=500/>|<img width=700/>|
   
 </div>
   
@@ -68,6 +69,7 @@
 | sweet dreams    | /swi:t dri:mz/   | giấc mơ ngọt ngào                |
 | peaches and cream| /'pi:tʃɪz ənd kri:m/| đào và kem                    |
 | speak Chinese   | /spi:k tʃaɪ'ni:z/ | nói tiếng Trung Quốc             |
+|<img width=500/>|<img width=500/>|<img width=700/>|
 
 
   
@@ -85,6 +87,7 @@
 | spring picnic   | /sprɪŋ 'pɪknɪk/  | dã ngoại mùa xuân                |
 | this thing      | /ðɪs θɪŋ/         | cái này                          |
 | winter wind     | /'wɪntər wɪnd/   | gió mùa đông                     |
+|<img width=500/>|<img width=500/>|<img width=700/>|
 
 ## 3. Nguyên âm e /e/: 
   
@@ -100,6 +103,7 @@
 | elegant dress        | /ˈɛlɪɡənt drɛs/       | váy thanh lịch                           |
 | next Wednesday       | /nɛkst ˈwɛnzdeɪ/       | thứ Tư tới                               |
 | well read            | /wɛl rɛd/              | đọc nhiều, thông thạo trong nhiều lĩnh vực |
+|<img width=500/>|<img width=500/>|<img width=700/>|
 
   
   
@@ -117,6 +121,7 @@
 | last chance       | /læst 'ʧæns/        | cơ hội cuối cùng                 |
 | handsome actor    | /'hænsəm 'æktər/     | diễn viên đẹp trai               |
 | angry man         | /'æŋɡri mæn/         | người đàn ông tức giận           |
+|<img width=500/>|<img width=500/>|<img width=700/>|
 
   
 </div>
