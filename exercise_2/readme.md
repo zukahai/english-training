@@ -34,7 +34,24 @@
 | this thing      | /ðɪs θɪŋ/         | cái này                          |
 | winter wind     | /'wɪntər wɪnd/   | gió mùa đông                     |
 
-## 3. Nguyên âm e bẹt /æ/
+## 3. Nguyên âm e /e/: 
+  
+  | Từ/Cụm từ           | Phiên âm                | Nghĩa                                      |
+|---------------------|-------------------------|--------------------------------------------|
+| presidential election | /ˌprɛzɪˈdɛnʃəl ɪˈlɛkʃən/ | cuộc bầu cử tổng thống                   |
+| bend your legs       | /bɛnd jʊr lɛɡz/         | uốn chân của bạn                        |
+| plenty of energy     | /ˈplɛnti əv ˈɛnərdʒi/  | đủ năng lượng                            |
+| remember the pledge  | /rɪˈmɛmbər ðə plɛdʒ/  | nhớ lời thề                               |
+| better friend        | /ˈbɛtər frɛnd/         | người bạn tốt hơn                       |
+| heavy metal          | /ˈhɛvi ˈmɛtəl/         | kim loại nặng                            |
+| get better           | /ɡɛt ˈbɛtər/           | cải thiện                                 |
+| elegant dress        | /ˈɛlɪɡənt drɛs/       | váy thanh lịch                           |
+| next Wednesday       | /nɛkst ˈwɛnzdeɪ/       | thứ Tư tới                               |
+| well read            | /wɛl rɛd/              | đọc nhiều, thông thạo trong nhiều lĩnh vực |
+
+  
+  
+## 4. Nguyên âm e bẹt /æ/
   
   | Từ/Cụm từ         | Phiên âm            | Nghĩa                           |
 |-------------------|---------------------|---------------------------------|
