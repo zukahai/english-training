@@ -41,3 +41,26 @@ Dịch: When I arrive at the office, I read emails immediately. Usually, there a
 | there are a lot of email| S |
 |through|V|
 |<img width=1500/>|<img width=150/>|
+
+### Câu 3:
+Tôi làm việc ở một cửa hàng máy tính. Tôi rất thích công việc này. Nhưng nó khá là vất vả. Hàng ngày tôi chuyển máy tính từ kho tới cửa hàng.
+
+Dịch: I work at a computer store. I really enjoy this job. But it is quite demanding. Every day, I transfer computers from the warehouse to the store.
+
+| English | |
+| :-: |:-: |
+| I| S |
+| work| V |
+| a computer stor| O |
+| I| S |
+| really| V |
+| this job | O |
+| it| S |
+| is| V |
+| quite demanding| O |
+|Every day|M|
+|I|O|
+|transfer|S|
+|computers|O|
+|from the warehouse to the store|O|
+|<img width=1500/>|<img width=150/>|
