@@ -6,6 +6,15 @@
 - M: (Modifier) Trạng ngữ, là từ hay cụm từ dùng để bổ sung, mô tả cho động từ, tính từ hay trạng từ.
 - C: (Complement) Bổ ngữ, là từ hay cụm từ dùng để bổ sung cho chủ ngữ hoặc tân ngữ, giúp cho câu trở nên đầy đủ hơn.
 
+
+## Mục lục
+
+- [Câu 1](#câu-1)
+- [Câu 2](#câu-2)
+- [Câu 3](#câu-3)
+- [Câu 4](#câu-4)
+- [Câu 5](#câu-5)
+
 ### Câu 1:
 
 Mỗi buổi sáng, tôi lái xe đưa các con đi học. Đường tới trường cũng khá xa, tầm 10km.
@@ -95,4 +104,22 @@ Dịch: I live with a friend. She cooks terribly. So almost every night, I am th
 |I|S|
 |enjoy|V|
 |cooking|O|
+|<img width=1500/>|<img width=150/>|
+
+### Câu 5:
+
+Mỗi lần đến giờ ăn trưa, tôi và mấy đứa bạn cùng trường chơi bóng rổ. Sau đó chúng tôi ăn vội thứ gì đó trước khi vào lớp tiếp theo.
+
+Dịch: Every time it's lunchtime, my friends and I at school play basketball. Then we quickly eat something before going to the next class.
+
+| English | |
+| :-: |:-: |
+| Every time it's lunchtime| M |
+| my friends and I at school| S |
+| play| V |
+| basketball| O |
+| Then| C |
+| we | S |
+| eat| V |
+|before going to the next class| O|
 |<img width=1500/>|<img width=150/>|
