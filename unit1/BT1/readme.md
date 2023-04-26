@@ -51,7 +51,7 @@ Dịch: I work at a computer store. I really enjoy this job. But it is quite dem
 | :-: |:-: |
 | I| S |
 | work| V |
-| a computer stor| O |
+| a computer store| O |
 | I| S |
 | really| V |
 | this job | O |
@@ -59,8 +59,40 @@ Dịch: I work at a computer store. I really enjoy this job. But it is quite dem
 | is| V |
 | quite demanding| O |
 |Every day|M|
-|I|O|
-|transfer|S|
+|I|S|
+|transfer|V|
 |computers|O|
 |from the warehouse to the store|O|
+|<img width=1500/>|<img width=150/>|
+
+### Câu 4:
+
+Tôi sống với một người bạn. Cô ấy nấu ăn siêu dở. Nên hầu như tối nào tôi cũng là người nấu ăn. Dù vậy thì tôi cũng không bận tâm điều này vì tôi thích nấu nướng.
+
+Dịch: I live with a friend. She cooks terribly. So almost every night, I am the one who cooks. However, I don't mind it because I enjoy cooking.
+
+
+| English | |
+| :-: |:-: |
+| I| S |
+| live| V |
+| a friend| O |
+| I| S |
+| She| S |
+| cooks | V |
+| terribly| O |
+|So almost| C|
+| every night| M |
+| quite demanding| O |
+|Every day|M|
+|I|S|
+|am|V|
+|computers|O|
+|However|C
+|I|S|
+|mind|S|
+|it|O|
+|I|S|
+|enjoy|V|
+|cooking|O|
 |<img width=1500/>|<img width=150/>|
