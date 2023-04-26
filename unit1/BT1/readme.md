@@ -7,7 +7,7 @@
 - C: (Complement) Bổ ngữ, là từ hay cụm từ dùng để bổ sung cho chủ ngữ hoặc tân ngữ, giúp cho câu trở nên đầy đủ hơn.
 
 
-## Mục lục
+## Table of contents
 
 - [Câu 1](#câu-1)
 - [Câu 2](#câu-2)
