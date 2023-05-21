@@ -40,4 +40,13 @@
 - I find cooking enjoyable, possibly because I enjoy eating more than cooking. Although a lot of me love to cook my favorite dishes by myself, sometimes it's not that good.
 
 ## Describe the picture
+##### Picture
 
+<div align = "center">
+  <img align="center" src= "./image.jpg" />
+</div>
+
+#### Describe
+
+
+This is my favorite photo. It is a testament to the achievement that comes from my passion. My passion is writing code for computer programs. Looking at the photo, everyone can see my efforts, to achieve this result I had to stay up every night to practice. It would be an achievement that I can be proud of.
